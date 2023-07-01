@@ -1,0 +1,34 @@
+
+@media (max-width: 1240px) {
+    .container {
+        width: 95%;
+    }
+}
+
+@media (max-width: 1120px) {
+    .wrapper1 {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 900px) {
+    nav {
+        display: none;
+    }
+
+    .fa-arrow-right {
+        display: inline-block;
+    }
+}
+
+@media (max-width: 630px) {
+    .textdiv h1 {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 630px) {
+    .textdiv h2 {
+        font-size: 10px;
+    }
+}
